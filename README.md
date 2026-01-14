@@ -45,9 +45,9 @@ Perfect showcase of Python skills relevant for:
 
 Future Improvements:
 
-Add log returns & geometric chaining
-Implement volatility & Sharpe ratio
-Add covariance/correlation matrix
-Portfolio optimization (Markowitz)
-Factor analysis & regression
-Backtesting engine with transaction costs
+- Add log returns & geometric chaining
+- Implement volatility & Sharpe ratio
+- Add covariance/correlation matrix
+- Portfolio optimization (Markowitz)
+- Factor analysis & regression
+- Backtesting engine with transaction costs
