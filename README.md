@@ -42,6 +42,7 @@ Perfect showcase of Python skills relevant for:
 - yfinance
 - matplotlib
 
+## Bonus: Indices Portfolio management
 
 Future Improvements:
 
